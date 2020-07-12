@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Alex, welcome to my GitHub profile!
+**My name is Alex, welcome to my GitHub profile!**
 
 - 🖥 I’m currently working at AWS, as a Software Development Engineer in CloudWatch. If you are looking for a tool to monitor your service or infrastructure, check us out! [CloudWatch](https://aws.amazon.com/cloudwatch/)
 - 🎓 I love learning new technologies and tools! I usually take notes about it, you can find them on [my book-notes repo](https://github.com/AlexGascon/book-notes)
