@@ -1,9 +1,9 @@
 ### Hi there! 👋
 **My name is Alex, welcome to my GitHub profile!**
 
-- 🖥 I’m currently working at Stripe, as a Backend/API Engineer in CloudWatch. If you have an online business we can definitely help, so check us out! [Stripe](https://stripe.com) 
+- 🖥 I’m currently working at Stripe, as a Backend/API Engineer in the EMEA Payments area. If you have an online business we can definitely help, so check us out! [Stripe](https://stripe.com) 
 - 🧠 I'm currently studying Psychology! I'm sharing all my notes and other material in [my psicologia-uned repo](https://github.com/AlexGascon/psicologia-uned), feel free to check them if you're interested in the matter!
-- 📫 How to reach me: You can find me on Twitter ([@AlexGasconB](https://twitter.com/AlexGasconB)) or on [LinkedIn](https://www.linkedin.com/in/alexgascon/). Come and say hi!
+- 📫 How to reach me: You can find me on Twitter ([@AlexGasconB](https://twitter.com/AlexGasconB)) or on [LinkedIn](https://www.linkedin.com/in/alexgascon/). I'm always open to a friendly chat, so come and say hi!
 <!--
 **AlexGascon/AlexGascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
